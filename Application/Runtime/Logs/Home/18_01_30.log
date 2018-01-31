@@ -1,0 +1,44 @@
+[ 2018-01-30T16:43:25+08:00 ] 127.0.0.1 /home/WeChat/weChatResponse
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002061s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /Users/Test/haiyang.com/Application/Home/Controller/WeChatController.class.php 第 91 行.
+
+[ 2018-01-30T16:45:21+08:00 ] 127.0.0.1 /home/WeChat/weChatResponse
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002024s ]
+NOTIC: [8] Undefined variable: _GLOBALS /Users/Test/haiyang.com/Application/Home/Controller/WeChatController.class.php 第 91 行.
+
+[ 2018-01-30T16:45:31+08:00 ] 127.0.0.1 /home/WeChat/weChatResponse
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001724s ]
+NOTIC: [8] Undefined variable: _GLOBAL /Users/Test/haiyang.com/Application/Home/Controller/WeChatController.class.php 第 91 行.
+
+[ 2018-01-30T17:11:48+08:00 ] 127.0.0.1 /home/OperationWeChat/getWeChatRespons
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001335s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /Users/Test/haiyang.com/Application/Home/Controller/WeChatController.class.php 第 91 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found /Users/Test/haiyang.com/Application/Home/Controller/WeChatController.class.php 第 95 行.
+NOTIC: [2] simplexml_load_string(): null /Users/Test/haiyang.com/Application/Home/Controller/WeChatController.class.php 第 95 行.
+NOTIC: [2] simplexml_load_string(): ^ /Users/Test/haiyang.com/Application/Home/Controller/WeChatController.class.php 第 95 行.
+NOTIC: [8] Trying to get property of non-object /Users/Test/haiyang.com/Application/Home/Controller/WeChatController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: result /Users/Test/haiyang.com/Application/Home/Controller/WeChatController.class.php 第 102 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001227s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001354s ]
+

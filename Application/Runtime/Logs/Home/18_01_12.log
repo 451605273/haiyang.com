@@ -1,0 +1,849 @@
+[ 2018-01-12T13:41:47+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+NOTIC: [8] Undefined variable: curl /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 15 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 15 行.
+NOTIC: [8] Undefined variable: curl /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 16 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001460s ]
+
+[ 2018-01-12T13:43:05+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+NOTIC: [8] Undefined variable: curl /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 15 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 15 行.
+NOTIC: [8] Undefined variable: curl /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 16 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001711s ]
+
+[ 2018-01-12T13:43:38+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001339s ]
+
+[ 2018-01-12T13:44:27+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001186s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+
+[ 2018-01-12T13:44:56+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+
+[ 2018-01-12T13:44:57+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+
+[ 2018-01-12T13:44:58+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000954s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001242s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+
+[ 2018-01-12T13:44:59+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001053s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+
+[ 2018-01-12T13:44:59+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+
+[ 2018-01-12T13:48:14+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001088s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 13 行.
+
+[ 2018-01-12T13:48:32+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 11 行.
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 13 行.
+
+[ 2018-01-12T13:49:09+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 8 行.
+
+[ 2018-01-12T13:49:32+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001084s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 8 行.
+
+[ 2018-01-12T13:50:12+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 8 行.
+
+[ 2018-01-12T13:50:13+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 8 行.
+
+[ 2018-01-12T13:50:13+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001048s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 8 行.
+
+[ 2018-01-12T13:50:14+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 8 行.
+
+[ 2018-01-12T13:50:37+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+
+[ 2018-01-12T13:50:38+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001262s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+
+[ 2018-01-12T13:50:39+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+
+[ 2018-01-12T13:50:40+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+
+[ 2018-01-12T13:50:40+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+
+[ 2018-01-12T13:50:41+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001047s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+
+[ 2018-01-12T13:50:42+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001591s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+
+[ 2018-01-12T13:51:21+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+
+[ 2018-01-12T13:51:22+08:00 ] 127.0.0.1 /Home/Wechat/getTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+
+[ 2018-01-12T13:54:29+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001103s ]
+NOTIC: [2] fopen(token.txt): failed to open stream: No such file or directory /Users/Test/haiyang.com/Application/Common/Common/publicMethod.class.php 第 33 行.
+
+[ 2018-01-12T13:55:07+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001067s ]
+NOTIC: [2] fopen(token.txt): failed to open stream: No such file or directory /Users/Test/haiyang.com/Application/Common/Common/publicMethod.class.php 第 33 行.
+
+[ 2018-01-12T13:55:08+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001187s ]
+NOTIC: [2] fopen(token.txt): failed to open stream: No such file or directory /Users/Test/haiyang.com/Application/Common/Common/publicMethod.class.php 第 33 行.
+
+[ 2018-01-12T13:55:09+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001045s ]
+NOTIC: [2] fopen(token.txt): failed to open stream: No such file or directory /Users/Test/haiyang.com/Application/Common/Common/publicMethod.class.php 第 33 行.
+
+[ 2018-01-12T13:55:09+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+NOTIC: [2] fopen(token.txt): failed to open stream: No such file or directory /Users/Test/haiyang.com/Application/Common/Common/publicMethod.class.php 第 33 行.
+
+[ 2018-01-12T13:55:10+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001100s ]
+NOTIC: [2] fopen(token.txt): failed to open stream: No such file or directory /Users/Test/haiyang.com/Application/Common/Common/publicMethod.class.php 第 33 行.
+
+[ 2018-01-12T13:55:10+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001152s ]
+NOTIC: [2] fopen(token.txt): failed to open stream: No such file or directory /Users/Test/haiyang.com/Application/Common/Common/publicMethod.class.php 第 33 行.
+
+[ 2018-01-12T13:55:10+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001242s ]
+NOTIC: [2] fopen(token.txt): failed to open stream: No such file or directory /Users/Test/haiyang.com/Application/Common/Common/publicMethod.class.php 第 33 行.
+
+[ 2018-01-12T13:55:11+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001162s ]
+NOTIC: [2] fopen(token.txt): failed to open stream: No such file or directory /Users/Test/haiyang.com/Application/Common/Common/publicMethod.class.php 第 33 行.
+
+[ 2018-01-12T13:56:37+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001157s ]
+NOTIC: [2] fopen(token.txt): failed to open stream: No such file or directory /Users/Test/haiyang.com/Application/Common/Common/publicMethod.class.php 第 33 行.
+
+[ 2018-01-12T13:56:38+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001482s ]
+NOTIC: [2] fopen(token.txt): failed to open stream: No such file or directory /Users/Test/haiyang.com/Application/Common/Common/publicMethod.class.php 第 33 行.
+
+[ 2018-01-12T13:56:39+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+NOTIC: [2] fopen(token.txt): failed to open stream: No such file or directory /Users/Test/haiyang.com/Application/Common/Common/publicMethod.class.php 第 33 行.
+
+[ 2018-01-12T13:56:52+08:00 ] 127.0.0.1 /Home/Wechat/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001187s ]
+NOTIC: [2] fopen(token.txt): failed to open stream: No such file or directory /Users/Test/haiyang.com/Application/Common/Common/publicMethod.class.php 第 33 行.
+
+[ 2018-01-12T13:56:54+08:00 ] 127.0.0.1 /Home/Wechat/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001129s ]
+NOTIC: [2] fopen(token.txt): failed to open stream: No such file or directory /Users/Test/haiyang.com/Application/Common/Common/publicMethod.class.php 第 33 行.
+
+[ 2018-01-12T13:56:56+08:00 ] 127.0.0.1 /Home/Wechat/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+NOTIC: [2] fopen(token.txt): failed to open stream: No such file or directory /Users/Test/haiyang.com/Application/Common/Common/publicMethod.class.php 第 33 行.
+
+[ 2018-01-12T13:57:05+08:00 ] 127.0.0.1 /Home/Wechat/setAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001689s ]
+
+[ 2018-01-12T13:57:11+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001146s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 8 行.
+
+[ 2018-01-12T13:57:26+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001748s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 8 行.
+
+[ 2018-01-12T13:57:46+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 8 行.
+
+[ 2018-01-12T13:57:47+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001568s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 8 行.
+
+[ 2018-01-12T13:57:48+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001148s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 8 行.
+
+[ 2018-01-12T13:57:49+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 8 行.
+
+[ 2018-01-12T13:57:59+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001147s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 8 行.
+
+[ 2018-01-12T14:00:37+08:00 ] 127.0.0.1 /Home/Wechat/customMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+NOTIC: [8] Undefined variable: dataStr /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 12 行.
+
+[ 2018-01-12T14:15:26+08:00 ] 127.0.0.1 /Home/Wechat/customMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001041s ]
+NOTIC: [8] Undefined variable: data /Users/Test/haiyang.com/Application/Common/Communication/Communication.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001104s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001268s ]
+
+[ 2018-01-12T14:15:51+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001135s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001302s ]
+
+[ 2018-01-12T14:18:32+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001192s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001345s ]
+
+[ 2018-01-12T14:18:36+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001213s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001379s ]
+
+[ 2018-01-12T14:18:38+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001203s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001432s ]
+
+[ 2018-01-12T14:19:02+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001131s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001297s ]
+
+[ 2018-01-12T14:19:03+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001197s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001353s ]
+
+[ 2018-01-12T14:19:04+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001233s ]
+
+[ 2018-01-12T14:20:38+08:00 ] 127.0.0.1 /Home/Wechat/getServerIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001132s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001165s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001336s ]
+
+[ 2018-01-12T14:21:25+08:00 ] 127.0.0.1 /Home/Wechat/customMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001476s ]
+
+[ 2018-01-12T14:27:40+08:00 ] 127.0.0.1 /Home/Wechat/customMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001737s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001989s ]
+
+[ 2018-01-12T14:34:26+08:00 ] 127.0.0.1 /Home/Wechat/customMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001240s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001431s ]
+
+[ 2018-01-12T15:02:11+08:00 ] 127.0.0.1 /Home/Wechat/customMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001235s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001237s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001397s ]
+
+[ 2018-01-12T15:08:28+08:00 ] 127.0.0.1 /Home/Wechat/customMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001169s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001333s ]
+
+[ 2018-01-12T15:11:51+08:00 ] 127.0.0.1 /Home/Wechat/customMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001238s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001421s ]
+
+[ 2018-01-12T15:13:12+08:00 ] 127.0.0.1 /Home/Wechat/customMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001119s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001283s ]
+
+[ 2018-01-12T15:13:41+08:00 ] 127.0.0.1 /Home/Wechat/customMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001135s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001308s ]
+
+[ 2018-01-12T15:13:57+08:00 ] 127.0.0.1 /Home/Wechat/customMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002245s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002511s ]
+
+[ 2018-01-12T15:16:15+08:00 ] 127.0.0.1 /Home/Wechat/customMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001158s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001335s ]
+
+[ 2018-01-12T15:22:22+08:00 ] 127.0.0.1 /Home/Wechat/customMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002145s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002329s ]
+
+[ 2018-01-12T15:30:13+08:00 ] 127.0.0.1 /Home/Wechat/customMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001992s ]
+
+[ 2018-01-12T15:30:16+08:00 ] 127.0.0.1 /Home/Wechat/customMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001097s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001256s ]
+
+[ 2018-01-12T15:31:15+08:00 ] 127.0.0.1 /Home/Wechat/customMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001099s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001256s ]
+
+[ 2018-01-12T15:57:59+08:00 ] 127.0.0.1 /Home/Wechat/customMenu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001134s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001294s ]
+
+[ 2018-01-12T17:39:03+08:00 ] 127.0.0.1 /Home/WeChat/getStr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001425s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /Users/Test/haiyang.com/Application/Home/Controller/WeChatController.class.php 第 71 行.
+
+[ 2018-01-12T18:14:26+08:00 ] 127.0.0.1 /Home/OperationWeChat/getWeChatRespons
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001890s ]
+
+[ 2018-01-12T18:15:14+08:00 ] 127.0.0.1 /Home/OperationWeChat/getWeChatRespons
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001053s ]
+
+[ 2018-01-12T18:15:17+08:00 ] 127.0.0.1 /Home/OperationWeChat/getWeChatRespons
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+
+[ 2018-01-12T18:15:40+08:00 ] 127.0.0.1 /Home/OperationWeChat/getWeChatRespons
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+
+[ 2018-01-12T18:15:43+08:00 ] 127.0.0.1 /Home/OperationWeChat/getWeChatRespons
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001203s ]
+
+[ 2018-01-12T18:16:56+08:00 ] 127.0.0.1 /Home/OperationWeChat/getWeChatRespons
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001047s ]
+
+[ 2018-01-12T18:18:27+08:00 ] 127.0.0.1 /Home/OperationWeChat/getWeChatRespons
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001488s ]
+
+[ 2018-01-12T18:18:29+08:00 ] 127.0.0.1 /Home/OperationWeChat/getWeChatRespons
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001064s ]
+
+[ 2018-01-12T18:32:54+08:00 ] 127.0.0.1 /Home/WeChat/getStr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001256s ]
+
+[ 2018-01-12T18:33:21+08:00 ] 127.0.0.1 /Home/WeChat/getStr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001147s ]
+
+[ 2018-01-12T18:33:23+08:00 ] 127.0.0.1 /Home/WeChat/getStr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001293s ]
+
+[ 2018-01-12T18:33:55+08:00 ] 127.0.0.1 /Home/WeChat/getStr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+
+[ 2018-01-12T18:34:04+08:00 ] 127.0.0.1 /Home/WeChat/getStr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001187s ]
+
+[ 2018-01-12T18:35:25+08:00 ] 127.0.0.1 /index.php/Home/OperationWeChat/getWeChatRespons
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001234s ]
+
